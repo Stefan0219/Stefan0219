@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stefan0219
 - 👀 I’m interested in computer system and machine learning.
 - 🌱 I’m currently learning computer science in China.
-- 💞️ I’m looking to collaborate on ..
+- 💞️Mostly used programing language are C C++
 - 📫 How to reach me ...
 
 <!---
