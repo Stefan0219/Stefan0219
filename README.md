@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer system and machine learning.
 - 🌱 I’m currently learning computer science in China.
 - 💞️ Mostly used programing language are C C++ Java Python
-- 📫 You are very welcomed to email me at StefanTian02@outlook.com!
+- 📫 You are very welcomed to email me at (StefanTian02@outlook.com)!
 - Finally, [here](https://www.youtube.com/watch?v=iik25wqIuFo) is a special video I made with full efforts! 
 
 <!---
