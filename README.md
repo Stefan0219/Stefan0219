@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,java,github,matlab,qt,idea" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,c,cpp,java,github,matlab,qt,idea" />
   </a>
 </p>
 
