@@ -1,3 +1,5 @@
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stefan0219&show_icons=true&theme=dark&count_private=true)
+
 - 👋 Hi, I’m Stefan Tian
 - 👀 I’m interested in computer system and machine learning.
 - 💞️ Mostly used programing language are C C++ Java Python
