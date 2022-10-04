@@ -2,9 +2,9 @@
 - I'm currently a junior whose major is computer science.
 - I'm interseted in Deep Learning, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
 - I enjoy managing complexity.
-- What I really want to accomplish is to bulid a computer system from starch(processor(rv) -> OS(where I am) -> complier).
+- What I really want to accomplish is to bulid a computer system from scratch(processor(rv) -> OS(where I am now) -> complier).
 - You are welcomed to mail me at StefanTian02@outlook.com.
-- I'm fluent in Chinese, English and learning Japanese now. Btw, I'm a fan of FC Bayern.
+- I'm fluent in Mandarin, English and learning Japanese now. Btw, I'm a fan of FC Bayern.
 
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> </div>
 
