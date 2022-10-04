@@ -7,3 +7,33 @@
 - I enjoy managing complexity and working pretty hard on it.
 - What I really want to accomplish is to bulid a computer system from processor design.
 - You are welcomed to email me at StefanTian02@outlook.com.
+
+
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
