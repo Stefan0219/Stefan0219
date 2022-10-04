@@ -1,12 +1,12 @@
 - Hi, I'm Stefan.
 - I'm currently a junior whose major is computer science.
-- I'm interseted in Machine Learning, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
+- I'm interseted in Deep Learning, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
 - I enjoy managing complexity.
-- What I really want to accomplish is to bulid a computer system from processor design.
+- What I really want to accomplish is to bulid a computer system from processor design(now I'm learning OS design).
 - You are welcomed to mail me at StefanTian02@outlook.com.
+- I'm fluent in Chinese and English and learning Japanese now. Btw, I'm a fan of FC Bayern.
 
-
-![Stefan's Github Status](https://github-readme-stats.vercel.app/api?username=stefan0219&count_private=true&include_all_commits=true&theme=default&show_icons=true)
+![Stefan's Github Status](https://github-readme-stats.vercel.app/api?username=stefan0219&count_private=true&include_all_commits=true&theme=radical&show_icons=true)
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
