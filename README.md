@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=stefan0219&show_icons=true&theme=dark&count_private=true)
+
 
 - 👋 Hi, I’m Stefan Tian
 - 👀 I’m interested in computer system and machine learning.
@@ -10,3 +10,7 @@
 Stefan0219/Stefan0219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefan0219&theme=dark&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stefan0219&show_icons=true&theme=dark&count_private=true)
