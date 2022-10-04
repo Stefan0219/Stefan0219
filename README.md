@@ -1,7 +1,7 @@
 - Hi, I'm Stefan.
 - I'm currently a junior whose major is computer science.
 - I'm interseted in Machine Learning, ***Computer Architecture***, ***Operating System***, Integrated Circuit Design, Digital Image Processing now.
-- I enjoy managing complexity and working pretty hard on it.
+- I enjoy managing complexity.
 - What I really want to accomplish is to bulid a computer system from processor design.
 - You are welcomed to mail me at StefanTian02@outlook.com.
 
