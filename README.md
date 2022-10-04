@@ -6,8 +6,7 @@
 - You are welcomed to mail me at StefanTian02@outlook.com.
 - I'm fluent in Chinese, English and learning Japanese now. Btw, I'm a fan of FC Bayern.
 
-![Stefan's Github Status](https://github-readme-stats.vercel.app/api?username=stefan0219&include_all_commits=true&theme=radical&show_icons=true)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> </div>
+<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> </div>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
