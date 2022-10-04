@@ -1,5 +1,5 @@
 ![Stefan's Github Status](https://github-readme-stats.vercel.app/api?username=stefan0219&count_private=true&include_all_commits=true&theme=radical&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefan0219&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefan0219&theme=tokyonight&layout=compact)
 
 - Hi, I'm Stefan.
 - I'm currently a junior whose major is computer science.
