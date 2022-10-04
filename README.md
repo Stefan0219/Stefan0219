@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stefan0219&show_icons=true&theme=tokyonight&count_private=true)
+
+[![Sparkline](https://stars.medv.io/stefan0219/badges.svg)](https://stars.medv.io/stefan0219/badges)
