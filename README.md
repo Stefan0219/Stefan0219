@@ -1,5 +1,5 @@
 - Hi, I'm Stefan.
-- I'm currently a junior whose major is computer science.
+- I'm current a junior whose major is computer science.
 - I'm interested in Deep Learning, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
 - I enjoy managing complexity.
 - What I really want to accomplish is to bulid a computer system from scratch(processor(rv) -> OS(where I am now) -> complier).
