@@ -4,7 +4,7 @@
 - I enjoy managing complexity.
 - What I really want to accomplish is buliding a computer system from scratch(processor(rv) -> OS(where I am now) -> complier).
 - You are welcomed to mail me at StefanTian02@outlook.com.
-- I'm fluent in Mandarin, English and learning Japanese now. Btw, I'm a fan of FC Bayern Muinch.
+- I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
 
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&hide_title=true&hide_border=true&show_icons=true&theme=radical" /> </div>
 
