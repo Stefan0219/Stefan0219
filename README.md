@@ -15,12 +15,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,idea,docker,git,github,bash,qt" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,docker,git,github,bash,qt" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,markdown,matlab,latex,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,mysql" />
   </a>
 </p>
 
