@@ -1,8 +1,8 @@
 - Hi, I'm Stefan.
 - I'm current a junior whose major is computer science.
-- I'm interested in Deep Learning, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
+- I'm interested in ***Database System(CMU 15-445ing)***, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
 - I enjoy managing complexity.
-- What I really want to accomplish is buliding a computer system from scratch(processor(rv) -> OS(where I am now) -> complier).
+- What I really want to accomplish is buliding a computer system from scratch(processor(rv) -> OS -> complier).
 - You are welcomed to mail me at StefanTian02@outlook.com.
 - I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
 
