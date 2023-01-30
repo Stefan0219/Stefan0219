@@ -1,6 +1,6 @@
 - Hi, I'm Stefan.
 - I'm current a junior whose major is computer science.
-- I'm interested in ***Database System(CMU 15-445ing)***, ***Computer Architecture***, ***Operating System***, ***Integrated Circuit Design***, Digital Image Processing now.
+- I'm interested in ***Database System(CMU 15-445ing)***, ***Computer Architecture***, ***Operating System***, ***Digital Image Processing***.
 - You are welcomed to mail me at StefanTian02@outlook.com.
 - I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
 
