@@ -9,7 +9,7 @@
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 <br>
-<h2>Skills</h2>
+<h2>Skills && Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
