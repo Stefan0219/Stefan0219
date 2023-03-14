@@ -5,7 +5,7 @@
 - I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
 - What I am currently doing
   - [Leetcode 101 decal Spring 2021](https://algorithmicthinking.github.io/#/) @ UC Berkely. My leetcode name is the same as my github name [Stefan0219](https://leetcode.com/Stefan0219/), you can find my solutions there.
-  - Tediously preparing for the Graduate Management Admission Test, which really drives me crazy😭.
+  - Tediously preparing for the graduate entrance examination, which really drives me crazy😭.
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=radical" /> </div>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
