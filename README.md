@@ -3,7 +3,9 @@
 - I'm interested in ***Database System(CMU 15-445ing)***, ***Computer Architecture***, ***Operating System***, ***Digital Image Processing***.
 - You are welcomed to mail me at StefanTian02@outlook.com.
 - I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
-
+- What I am currently doing
+  - [Leetcode 101 decal Spring 2021](https://algorithmicthinking.github.io/#/) @ UC Berkely.
+  - Tediously preparing for the Graduate Management Admission Test, which really drives me crazy😭.
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=radical" /> </div>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
