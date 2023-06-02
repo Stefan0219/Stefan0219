@@ -1,7 +1,7 @@
 - Hi, I'm Stefan.
 - I'm current a junior whose major is computer science.
 - I'm interested in ***Database System***, ***Computer Architecture***, ***Operating System***, ***Digital Image Processing***.
-- You are welcomed to mail me at tianpq@berkeley.edu.
+- You are welcome to mail me at tianpq@berkeley.edu.
 - I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
 - What I am currently doing
   - Tediously preparing for the graduate entrance examination, which really drives me crazy😭.
