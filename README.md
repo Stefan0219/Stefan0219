@@ -4,7 +4,7 @@
 - I'm fluent in Mandarin, English. I'm also learning Japanese now. Btw, I'm a fan of FC Bayern Muinch👻.
 - What I am currently doing
   - Tediously preparing for the graduate entrance examination, which really drives me crazy😭.
-<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=radical" /> </div>
+<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=gruvbox&show_icons=true" /> </div>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
