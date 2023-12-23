@@ -6,6 +6,7 @@
   - Job hunting.
   - CS144 @Stanford.
   - CS170 @Berkeley.
+  - 6.5840 @MIT.
   - Leetcode
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=gruvbox&show_icons=true" /> </div>
 
