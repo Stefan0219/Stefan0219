@@ -8,7 +8,7 @@
   - CS170 @Berkeley.
   - 6.5840 @MIT.
   - Leetcode
-<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=ayu&show_icons=true" /> </div>
+<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&theme=gruvbox&show_icons=true" /> </div>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
