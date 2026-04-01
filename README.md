@@ -1,4 +1,4 @@
-- Hi, I'm Stefan(Peiqi) Tian.
+- Hi, I'm Stefan(Peiqi) Tian. I'm currently a graduate student at the [School of Computer Science and Technology](https://scce.ucas.edu.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
 - I'm fluent in Mandarin, English. I'm also learning German now. Hallo, ich bin Stefan. Btw, I'm a fan of FC Bayern Muinch👻.
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stefan0219&show_icons=true" /> </div>
 
