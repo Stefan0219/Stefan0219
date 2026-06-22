@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Stefan (Peiqi) Tian</h1>
+<h1 align="center">Hi, I'm Stefan</h1>
 
 <p align="center">
-  Graduate student at UCAS · AI4EDA 
+  Graduate student at UCAS
 </p>
 
 
@@ -12,7 +12,6 @@
 ## About
 
 - Graduate student at the [School of Computer Science and Technology](https://scce.ucas.edu.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
-- Focused on **AI for Electronic Design Automation (AI4EDA)**.
 - Comfortable with Linux-first workflows, command-line tools, and systems-oriented development.
 - Fluent in Mandarin and English; currently learning German.
 - Fan of FC Bayern Munich👻.
