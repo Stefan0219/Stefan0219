@@ -1,7 +1,7 @@
 ## About
 - Fluent in Mandarin and English; currently learning German.
 - Fan of FC Bayern Munich👻.
-- My profile picture was taken at Shenzhen University of Advanced Technology, a place where I restarted my life.
+- My avatar was taken at [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), a place where I restarted my life.
 
 
 <p align="center">
